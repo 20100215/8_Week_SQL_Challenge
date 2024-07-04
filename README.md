@@ -7,4 +7,5 @@ Implemented using SQLite and Jupyter Notebook
 Progress:
 
 - Week 1: 12/12 (Completed June 20, revised June 30)
-- Week 2: 18/30 (In progress)
+- Week 2: 27/27 (Completed July 4)
+- Week 3: 0/17 (In progress)
