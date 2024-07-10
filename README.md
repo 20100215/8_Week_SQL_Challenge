@@ -1,6 +1,6 @@
 # 8 Week SQL Challenge
 
-![8 Week SQL Challenge](https://github.com/20100215/8_Week_SQL_Challenge/assets/84717650/f3727e28-b1a4-4526-8981-fc4b724de2f1)
+![8 Week SQL Challenge](https://github.com/20100215/8_Week_SQL_Challenge/assets/84717650/32e1f6a2-e641-41ca-b4d1-8901a2f42a20)
 
 Compilation of case study solutions with complex SQL data manipulation and analysis (Source: [#8WeekSQLChallenge](https://8weeksqlchallenge.com/))
 
