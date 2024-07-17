@@ -11,10 +11,10 @@ For starters: [Read here](https://www.quanthub.com/why-is-sql-important-for-data
 **Tools: SQLite, Jupyter Notebook**
 
 Projects:
- 1. [Week 1: Danny's Diner](https://github.com/20100215/8_Week_SQL_Challenge/tree/main/Week%201%20(Danny's%20Diner)) - 12/12 (Completed June 20, revised June 30)
- 2. [Week 2: Pizza Runner](https://github.com/20100215/8_Week_SQL_Challenge/tree/main/Week%202%20(Pizza%20Runner)) - 27/27 (Completed July 4)
- 3. [Week 3: Foodie-Fi](https://github.com/20100215/8_Week_SQL_Challenge/tree/main/Week%203%20(Foodie-Fi)) - 0/17 (In progress)
- 4. Week 4: Data Bank (Posting soon)
+ 1. [Week 1: Danny's Diner](https://github.com/20100215/8_Week_SQL_Challenge/blob/main/Week%201%20(Danny's%20Diner)/week1.ipynb) - [(Questions)](https://8weeksqlchallenge.com/case-study-1/)
+ 2. [Week 2: Pizza Runner](https://github.com/20100215/8_Week_SQL_Challenge/blob/main/Week%202%20(Pizza%20Runner)/week2.ipynb) - [(Questions)](https://8weeksqlchallenge.com/case-study-2/)
+ 3. [Week 3: Foodie-Fi](https://github.com/20100215/8_Week_SQL_Challenge/blob/main/Week%203%20(Foodie-Fi)/week3.ipynb) - [(Questions)](https://8weeksqlchallenge.com/case-study-3/)
+ 4. Week 4: Data Bank (In progress)
  5. Week 5: Data Mart (Posting soon)
  6. Week 6: CliqueBait (Posting soon)
  7. Week 7: Balanced Tree (Posting soon)
