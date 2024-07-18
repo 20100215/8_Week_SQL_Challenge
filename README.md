@@ -22,4 +22,6 @@ Projects:
 
 Feel free to click the links above and explore the outputs, queries, and insights from each case study! :)
 
-Last updated July 12, 2024
+Note: Weeks 1-3 solutions are done using SQLite, while weeks 4-8 solutions are done using PostgreSQL.
+
+Last updated July 18, 2024

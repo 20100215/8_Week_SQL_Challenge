@@ -1,3 +1,6 @@
+CREATE SCHEMA data_bank;
+SET search_path = data_bank;
+
 CREATE TABLE regions (
   region_id INTEGER,
   region_name VARCHAR(9)
