@@ -15,7 +15,7 @@ Projects:
  2. [Week 2: Pizza Runner](https://github.com/20100215/8_Week_SQL_Challenge/blob/main/Week%202%20(Pizza%20Runner)/week2.ipynb) - [(Questions)](https://8weeksqlchallenge.com/case-study-2/)
  3. [Week 3: Foodie-Fi](https://github.com/20100215/8_Week_SQL_Challenge/blob/main/Week%203%20(Foodie-Fi)/week3.ipynb) - [(Questions)](https://8weeksqlchallenge.com/case-study-3/)
  4. [Week 4: Data Bank](https://github.com/20100215/8_Week_SQL_Challenge/blob/main/Week%204%20(Data%20Bank)/week4.ipynb) - [(Questions)](https://8weeksqlchallenge.com/case-study-4/)
- 5. Week 5: Data Mart (Posting soon)
+ 5. [Week 5: Data Mart](https://github.com/20100215/8_Week_SQL_Challenge/blob/main/Week%205%20(Data%20Mart)/week5.ipynb) - [(Questions)](https://8weeksqlchallenge.com/case-study-5/)
  6. Week 6: CliqueBait (Posting soon)
  7. Week 7: Balanced Tree (Posting soon)
  8. Week 8: Fresh Segments (Posting soon)
