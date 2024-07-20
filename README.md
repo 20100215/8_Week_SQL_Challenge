@@ -22,6 +22,25 @@ Projects:
 
 Feel free to click the links above and explore the outputs, queries, and insights from each case study! :)
 
+## SQL Skills Gained:
+
+- Data cleaning & transformation
+- Aggregations
+- Joins
+- Common Table Expressions (CTEs) 
+- Variables
+- Window functions
+    - PARTITION BY, ORDER BY
+    - Ranking (ROW_NUMBER, DENSE_RANK)
+    - Analytics (LEAD, LAG)
+    - Ranges of calculations (ROWS BETWEEN)
+- CASE WHEN statements
+- Subqueries 
+- UNION, INTERSECT, EXCEPT
+- DATETIME functions (DATE_PART, DATE_TRUNC)
+- Data type conversion
+- TEXT functions, text and string manipulation
+
 Note: Weeks 1-3 solutions are done using SQLite, while weeks 4-8 solutions are done using PostgreSQL.
 
 Last updated July 18, 2024
